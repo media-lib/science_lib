@@ -1,0 +1,27 @@
+[playlist]
+NumberOfEntries=24
+File1=01_introduction.wmv
+Title1=Henryz - Introduction
+File2=02_reception.wmv
+File3=03_eureka.wmv
+File4=04_einstein&jupiter.wmv
+File5=05_evidence.wmv
+File6=06_predictions.wmv
+File7=07_moonvoyage.wmv
+File8=08_moremoon.wmv
+File9=09_religion.wmv
+File10=10_collectiveamnesia.wmv
+File11=11_discussion.wmv
+File12=12_summingup.wmv
+File13=Desktop/01_introduction.wmv
+File14=Desktop/02_reception.wmv
+File15=Desktop/03_eureka.wmv
+File16=Desktop/04_einstein&jupiter.wmv
+File17=Desktop/05_evidence.wmv
+File18=Desktop/06_predictions.wmv
+File19=Desktop/07_moonvoyage.wmv
+File20=Desktop/08_moremoon.wmv
+File21=Desktop/09_religion.wmv
+File22=Desktop/10_collectiveamnesia.wmv
+File23=Desktop/11_discussion.wmv
+File24=Desktop/12_summingup.wmv
